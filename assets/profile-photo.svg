@@ -1,0 +1,28 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="92" y1="80" x2="760" y2="1030" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101B2F"/>
+      <stop offset="1" stop-color="#07111E"/>
+    </linearGradient>
+    <linearGradient id="card" x1="170" y1="220" x2="692" y2="962" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12335B"/>
+      <stop offset="1" stop-color="#091827"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="200" y1="470" x2="704" y2="1020" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#73EAFD"/>
+      <stop offset="1" stop-color="#8C7AFE"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" rx="36" fill="url(#bg)"/>
+  <circle cx="720" cy="180" r="170" fill="#73EAFD" fill-opacity="0.12"/>
+  <circle cx="190" cy="960" r="200" fill="#8C7AFE" fill-opacity="0.12"/>
+  <rect x="130" y="120" width="640" height="860" rx="30" fill="url(#card)" stroke="rgba(255,255,255,0.15)"/>
+  <circle cx="450" cy="353" r="138" fill="#EFD4B2"/>
+  <path d="M334 328C348 250 392 201 449 201C507 201 553 254 568 332C560 287 528 252 492 236C454 220 404 224 366 248C353 275 343 299 334 328Z" fill="#091828"/>
+  <path d="M360 430C379 386 411 363 450 363C489 363 520 389 539 431L560 512C559 589 527 636 449 636C372 636 339 589 340 512L360 430Z" fill="#EFD4B2"/>
+  <rect x="260" y="620" width="380" height="250" rx="40" fill="url(#shirt)"/>
+  <rect x="305" y="667" width="70" height="165" rx="26" fill="#73EAFD" fill-opacity="0.45"/>
+  <rect x="525" y="667" width="70" height="165" rx="26" fill="#8C7AFE" fill-opacity="0.48"/>
+  <path d="M390 760H510V860H390V760Z" fill="#0A1324" fill-opacity="0.25"/>
+  <text x="450" y="955" text-anchor="middle" fill="white" fill-opacity="0.8" font-size="42" font-family="Arial, sans-serif" letter-spacing="4">ADD PHOTO</text>
+</svg>
